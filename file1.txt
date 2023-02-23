@@ -1,2 +1,2 @@
 Welcome to Git
-you can try it
+and try it
