@@ -6,3 +6,5 @@ feature/login 1
 cherry
 
 Cherry pick 2
+
+Squash

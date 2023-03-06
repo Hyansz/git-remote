@@ -6,3 +6,5 @@ feature/login 1
 cherry
 
 Rebase
+
+Squash
