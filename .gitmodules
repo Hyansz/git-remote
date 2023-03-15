@@ -1,3 +1,6 @@
 [submodule "submodule"]
 	path = submodule
 	url = git@github.com:Hyansz/git-remote.git
+[submodule "namafolder"]
+	path = namafolder
+	url = git@github.com:Hyansz/git-remote.git
